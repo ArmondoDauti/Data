@@ -1,12 +1,14 @@
 # Schemas On SQL Competency
 
-
-
 🗄️ MySQL Database Design & Queries Project
 
 This project demonstrates my ability to design, structure, and query relational databases using MySQL Workbench.
 
 It is divided into two parts, each showing different aspects of database development — from building the schema and relationships to writing SQL queries to retrieve meaningful data.
+
+
+
+
 
 📁 Project Structure
 mysql-project/
